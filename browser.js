@@ -41,6 +41,7 @@ process.title = 'browser';
 process.browser = true;
 process.env = {};
 process.argv = [];
+process.version = 'v0.8.26';
 
 function noop() {}
 
